@@ -15,7 +15,7 @@
 
 <h3 align="center">A passionate Software Engineer from India.</h3>
 
-<img alt="gif" src="https://user-images.githubusercontent.com/119167727/204149929-f2bc4806-096d-4c15-98c8-65cc6def76bf.png" align="right" height="500px" width="500px">
+<img alt="gif" src="https://user-images.githubusercontent.com/119167727/204149929-f2bc4806-096d-4c15-98c8-65cc6def76bf.png" align="right" height="400px" width="400px">
 
 - 👨‍💻 I’m currently pursuing **MCA**
 
